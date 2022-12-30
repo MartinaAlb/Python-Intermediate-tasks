@@ -1,3 +1,10 @@
-# Python-OOP-tasks
-Tasks in OOP / Object-oriented programming in Python
-This repository contains simple python scripts oriented on OOP
+# Python Intermediate Tasks
+
+This repository contains simple scripts, all in czech, knowledge level - intermediate, programming language Python.
+
+''' Python '''
+
+Script overview:
+Task 1 - OOP
+Task 2 - Regular expressions
+
