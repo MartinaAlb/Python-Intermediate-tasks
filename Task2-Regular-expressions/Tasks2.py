@@ -1,5 +1,5 @@
 """
-Tasks for practiciong regular expresions, functions, string methods.
+Task for practicing regular expresions, functions, string methods.
 In Czech, endlish version is not available.
 Script contains two solutions - basic for url with all tree given parametrs,
 advancet for url where can be one or more of given parametrs.
