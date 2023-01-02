@@ -7,4 +7,6 @@ This repository contains simple scripts, all in czech, knowledge level - interme
 Script overview:
 Task 1 - OOP
 Task 2 - Regular expressions
+Task 3 - Series analyzer (homework)
+
 
