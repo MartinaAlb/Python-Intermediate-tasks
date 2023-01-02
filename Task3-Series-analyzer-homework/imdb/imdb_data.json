@@ -1,0 +1,41 @@
+{
+  "source": "imdb.com",
+  "series": {
+    "House of dragon": {
+      "average_rating": 7.9,
+      "streaming_platform": "HBO Max",
+      "creators": [
+        "Ryan K. Condal",
+        "George R.R. Martin"
+      ],
+      "main_stars": [
+        "Matt Smith",
+        "Paddy Considine",
+        "Rhys Ifans"
+      ]
+    },
+    "The lord of the rings: Rings of power": {
+      "average_rating": 6.9,
+      "streaming_platform": "Prime video",
+      "creators": [
+        "Patrick McKay",
+        "John D. Payne"
+      ],
+      "main_stars": [
+        "Morfydd Clark",
+        "Ismael Cruz Cordova",
+        "Nazanin Boniadi"
+      ]
+    },
+    "Narcos": {
+      "average_rating": 8.8,
+      "streaming_platform": "Netflix",
+      "creators": ["Carlo Bernard", "Chris Brancato", "Doug Miro"],
+      "main_stars": [
+        "Pedro Pascal",
+        "Wagner Moura",
+        "Boyd Holbrook"
+      ]
+    }
+  }
+}
